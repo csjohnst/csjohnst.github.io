@@ -1,0 +1,14 @@
+# Site Settings
+title: "Hello. I'm Chris Johnstone."
+description: "I'm a software developer from Perth creating useful things for the web and business"
+url: 'http://jamigibbs.github.io/phantom/' # the base hostname & protocol for your site
+nav: "true"
+footer_text: '© 2017 Chris Johnstone'
+twitter: 'csjohnst'
+github: 'csjohnst'
+medium: 'johnstone.id.au'
+
+# Admin Settings
+admin_name: 'Chris Johnstone'
+admin_email: 'csjohnst@gmail.com'
+google_analytics: "UA-248732-1" # Update with your own tracking ID
