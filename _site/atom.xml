@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Chris Johnstone.</title>
+ <link href="http://jamigibbs.github.io/phantom//atom.xml" rel="self"/>
+ <link href="http://jamigibbs.github.io/phantom//"/>
+ <updated>2017-12-11T16:02:11+08:00</updated>
+ <id>http://jamigibbs.github.io/phantom/</id>
+ <author>
+   <name>Chris Johnstone</name>
+   <email>csjohnst@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Cricket Update</title>
+   <link href="http://jamigibbs.github.io/phantom//development/2017/12/11/bloc-jams-angular.html"/>
+   <updated>2017-12-11T22:15:00+08:00</updated>
+   <id>http://jamigibbs.github.io/phantom//development/2017/12/11/bloc-jams-angular</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
